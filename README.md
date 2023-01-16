@@ -13,18 +13,16 @@ These instructions will get you a copy of the project up and running on your loc
  Node.js
  npm
 
+## Contributing
+
+This project is open to contribution. If you are willing to help me work on this project, you can go ahead and help me. You can follow these simple steps to get started:
+ - Fork the project: Create a copy of this project's codebase on your own account. This will allow you to make changes without affecting the original codebase.
+ - Make changes: Make the changes you want to contribute to this project. 
+ - Submit a pull request: Once you've made your changes, submit a request. I will review and merge your changes
+ - Thats it, congratulations for helping me build a home rentals agency website!
+ 
+ 
 ## Installing
-
- 1. Clone the repository to your local machine
-
-`git clone https://github.com/[username]/home-rentals-agency-website.git`
-
- 2. Install the dependencies
-
-`npm install`
-
- 3. Start the development server
-
-`npm start`
-
- 4. Open http://localhost:3000 to view the project in your browser
+To run this project in your local machine:
+ - Run `npm install` to install dependancies
+ - `npm start` to start the application in your local host
