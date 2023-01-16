@@ -2,7 +2,7 @@
 
 An open-source home rentals agency website built using Tailwind CSS and React. The goal of this project is to provide a platform for people to easily search for and book rental properties. 
 
-Get the UI and the assets to be used in this project by clicking [this figma link](Open http://localhost:3000 to view the project in your browser)
+Get the UI and the assets to be used in this project by clicking [this figma link](https://www.figma.com/file/iCtEmCtz2EECa7GFPwcbuB/Home-Rentals-Agency-website-design-(Community)?node-id=2%3A29&t=Z2uIwwmGS6EQdlIG-0)
 
 
 ## Getting Started
